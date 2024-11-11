@@ -1,0 +1,10 @@
+1;Co oznacza skrót HTML ?;High Tech Machine Learning ;Hyper Text Markup Language ;Hyperlink and Text Management Language ;Home Tool Management Logic ;2
+2;Które z poniższych jest językiem programowania ?;JPEG ;HTML ;CSS ;Python ;4
+3;Jakie urządzenie potrzebne jest do wyświetlania informacji na monitorze ?;Procesor ;Pamięć RAM ;Karta Graficzna ;Myszka ;3
+4;Co oznacza skrót PDF ?;Personal Data File ;Professional Database Form ;Public Domain Format ;Portable Document Format ;4
+5;Które z poniższych jest typem oprogramowania ?;Apple iPhone ;Nvidia GeForce ;Intel Core i7 ;Microsoft Excel ;4
+6;Która z poniższych jest najpopularniejszą platformą do tworzenia stron internetowych ?;Google Drive ;Excel ;Photoshop ;WordPress ;4
+7;Co oznacza skrót URL ?;Uniform Resource Locator ;User Relative Language ;Universal Remote Library ;Universal Reference Label ;1
+8;Które z poniższych jest typem pamięci komputerowej ?;GPU ;USB ;RGB ;ROM ;4
+9;Jakie narzędzie używane jest do zabezpieczania komputera przed wirusami ?;Antywirus ;Karta sieciowa ;Słownik języka angielskiego ;Skaner kodów kreskowych ;1
+10;Który z poniższych jest systemem operacyjnym stworzonym przez Microsoft ?;macOS ;Linux ;Windows ;Android ;3
